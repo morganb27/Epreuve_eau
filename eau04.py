@@ -2,6 +2,7 @@ import sys
 
 nombre_premier = []
 
+#Définition de la fonction
 
 def nbre_premier():
     i = 1
@@ -27,5 +28,5 @@ for element in nombre_premier:
         print(element)
         break
 
-
+# print(nombre_premier) vérifier si progamme fonctionne correctement avec la liste des nombres premiers
 
